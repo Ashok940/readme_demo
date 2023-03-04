@@ -37,7 +37,21 @@ if you add quotes ~~click on~~ ***up key on tab.***
   |Dipendra|20|AI|
 
   :mask:
-  
+
+
+  ## hide something in github
+  `#0d1117`
+  <details><summary>Click me</summary>
+  <p>
+  #### This is the Hide informations in github
+
+```ruby
+   print"Hello World"
+```
+  </p>
+
+  </details>
+
 
 
     
