@@ -40,7 +40,7 @@ if you add quotes ~~click on~~ ***up key on tab.***
 
 
   ## hide something in github
-  <details><summary>`#0d1117`Click me</summary>
+  <details><summary>Click me</summary>
   <p>
   #### This is the Hide informations in github
 
