@@ -42,7 +42,7 @@ if you add quotes ~~click on~~ ***up key on tab.***
   ## hide something in github
   <details><summary>Click me</summary>
   <p>
-  #### This is the Hide informations in github
+  This is the Hide informations in github
 
 ```ruby
    print"Hello World"
